@@ -1,3 +1,15 @@
+System.Reflection.AssemblyName
+System.Runtime.InteropServices
+System.Net.WebClient
+System.Net.Sockets.TcpClient
+System.Security.Cryptography
+System.Net.NetworkInformation
+System.Net.IPAddres
+System.Net.WebRequest
+System.DirectoryServices.AccountManagement
+System.Net.CredentialCache
+System.Net.Socket
+System.Net.Dns
 invoke-webrequest
 Set-ExecutionPolicy
 Set-MasterBootRecord
